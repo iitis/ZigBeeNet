@@ -1,11 +1,11 @@
 # ZigBeeNet
 We present a decrypted ZigBee IoT network traffic dataset in a smart home environment.
 
-We use 15 devices in total, six different types of devices (ZigBee Hub, Power Plug, Smart Light, Smart Bulb, Wall Switch and Motion Sensor) and nine different devices.
+We use 15 devices in total, six different types of devices (Hub, Power Plug, Smart Light, Smart Bulb, Wall Switch and Motion Sensor) and nine different devices.
 
-**ZigBee Device List**
+ ## **ZigBee Device List**
 
-ZigBee Hub/Bridge
+Hub
 * Hue Bridge
   
 Power Plug
