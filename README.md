@@ -30,4 +30,8 @@ Wall Switch
 * Hue Dimmer Switch #2
 
 Motion Sensor
-* A Hue Motion Sensor 
+* A Hue Motion Sensor
+
+## Download
+
+You can download the dataset from Zenodo library [here](https://doi.org/10.5281/zenodo.13957306).
