@@ -1,11 +1,8 @@
 # ZigBeeNet
-We present a decrypted ZigBee IoT network traffic dataset in a smart home environment.
+We present a decrypted ZigBee IoT network traffic dataset in a smart home environment. We use 15 devices in total, six different types of devices (Hub, Power Plug, Smart Light, Smart Bulb, Wall Switch, and Motion Sensor) and nine different devices. We have collected data from 20 days. We were using a Zigbee Sniffer based on the Texas Instruments CC2531 chip and a Wireshark plugin to capture data to pcap files. 
 
-We use 15 devices in total, six different types of devices (Hub, Power Plug, Smart Light, Smart Bulb, Wall Switch and Motion Sensor) and nine different devices.
-
-We have collected data from 20 days.
-
-We were using a Zigbee Sniffer based on the Texas Instruments CC2531 chip and a Wireshark plugin to capture data to pcap files. 
+The dataset is a result of our work published in the journal Applied Science. For more detailed information about the dataset and zigbee network traffic characteristics, you can access the scientific article from the link below. Please cite the article to use this dataset.
+https://www.mdpi.com/2076-3417/14/23/10844
 
  ## **ZigBee Device List**
 
