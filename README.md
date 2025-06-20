@@ -3,7 +3,13 @@ We present a decrypted ZigBee IoT network traffic dataset in a smart home enviro
 
 The dataset is a result of our work published in the journal Applied Science. For more detailed information about the dataset and zigbee network traffic characteristics, you can access the scientific article from the link below. Please cite the article to use this dataset.
 
-https://www.mdpi.com/2076-3417/14/23/10844
+We encourage you to publish your results on running ZigBeeNet. Please cite the following publication when referring to ZigBeeNet: 
+
+Keleşoğlu, N., & Sobczak, Ł. (2024). ZigBeeNet: Decrypted Zigbee IoT Network Traffic Dataset in Smart Home Environment. Applied Sciences, 14(23), 10844. , https://www.mdpi.com/2076-3417/14/23/10844
+
+## Download dataset
+
+You can download the dataset from Zenodo library [here](https://doi.org/10.5281/zenodo.13957306).
 
  ## **ZigBee Device List**
 
@@ -34,9 +40,6 @@ Wall Switch
 Motion Sensor
 * Hue Motion Sensor
 
-## Download dataset
-
-You can download the dataset from Zenodo library [here](https://doi.org/10.5281/zenodo.13957306).
 
 ## How to open the dataset?
 
